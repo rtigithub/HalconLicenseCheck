@@ -1,10 +1,7 @@
 {
   "profiles": {
     "HalconLicenseCheck": {
-      "commandName": "Project",
-      "environmentVariables": {
-        "HALCONROOT": "C:\\Program Files\\MVTec\\HALCON-18.11-Steady"
-      }
+      "commandName": "Project"
     }
   }
 }
